@@ -16,9 +16,8 @@
       "blocks": {
         "announce_text": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p><strong>Make an announcement</strong> | More info</p>",
+            "text": "<p><strong>DELIVERY ALL OVER LEBANON</strong></p>",
             "target_url_enabled": false,
             "target_url": "",
             "target_referrer_enabled": false,
