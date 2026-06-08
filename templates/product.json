@@ -158,12 +158,35 @@
         "padding_bottom": 36
       }
     },
+    "section_announcement_eaVXD4": {
+      "type": "section-announcement",
+      "blocks": {
+        "text_3RD4Ja": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Create Natural Freckles in Seconds</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_3RD4Ja"
+      ],
+      "name": "Scrolling promotion",
+      "settings": {
+        "bg_color": "#dbb4b8",
+        "color": "#fffcf9",
+        "text_size": 7,
+        "padding_top": 18,
+        "padding_bottom": 18
+      }
+    },
     "image-with-text": {
       "type": "section-double",
       "blocks": {
         "image": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/1780306769_3_jpg.webp",
             "overlay_opacity": 15,
             "overlay_color": "#000000",
             "enable_overlay_text": false,
@@ -181,9 +204,9 @@
         "text": {
           "type": "text",
           "settings": {
-            "kicker": "Image with text",
+            "kicker": "Naturally Sun-Kissed Freckles",
             "title": "",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>Create realistic-looking freckles in seconds with our innovative multi-tip stamp. Designed to mimic natural freckle patterns, it delivers a fresh, youthful glow that blends seamlessly with your skin.</p><h3></h3>",
             "font_size": 5,
             "text_columns": 1,
             "align_text": "text-left",
@@ -211,15 +234,37 @@
         "padding_bottom": 0
       }
     },
+    "section_announcement_LJFTnD": {
+      "type": "section-announcement",
+      "blocks": {
+        "text_tDyNTz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buildable Sun-Kissed Glow</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_tDyNTz"
+      ],
+      "name": "Scrolling promotion",
+      "settings": {
+        "bg_color": "#dbb4b8",
+        "color": "#fffcf9",
+        "text_size": 7,
+        "padding_top": 18,
+        "padding_bottom": 18
+      }
+    },
     "image-with-text-2": {
       "type": "section-double",
       "blocks": {
         "text": {
           "type": "text",
           "settings": {
-            "kicker": "Image with text",
+            "kicker": "Effortless Beauty, Every Day",
             "title": "",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>Whether you prefer a subtle touch or a bold summer-inspired look, the buildable formula lets you customize your freckles with ease while providing a lightweight, long-lasting finish.</p>",
             "font_size": 5,
             "text_columns": 1,
             "align_text": "text-left",
@@ -234,6 +279,7 @@
         "image": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/1774870020_phpcgdpnih6ku3f9QfLt9b.jpg",
             "overlay_opacity": 15,
             "overlay_color": "#000000",
             "enable_overlay_text": false,
@@ -266,6 +312,7 @@
     },
     "related": {
       "type": "related",
+      "disabled": true,
       "settings": {
         "heading": "You might also like",
         "bg": "palette--light bg--neutral",
@@ -287,7 +334,9 @@
   },
   "order": [
     "main",
+    "section_announcement_eaVXD4",
     "image-with-text",
+    "section_announcement_LJFTnD",
     "image-with-text-2",
     "related"
   ]
