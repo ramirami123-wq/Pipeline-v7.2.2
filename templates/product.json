@@ -368,6 +368,49 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "section_icons_pqMPNP": {
+      "type": "section-icons",
+      "blocks": {
+        "icon_block_z3KQnK": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#AAAAAA",
+            "title": "Delivery All Over Lebanon",
+            "text": "",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icon_block_y6XAde": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-phone",
+            "icon_color": "#AAAAAA",
+            "title": "24/7 support",
+            "text": "",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_block_z3KQnK",
+        "icon_block_y6XAde"
+      ],
+      "name": "Icon columns",
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "icons_size": 30,
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-center",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -379,6 +422,7 @@
     "section_liquid_3G7F6M",
     "section_liquid_xrndyG",
     "178092995631f1de96",
-    "related"
+    "related",
+    "section_icons_pqMPNP"
   ]
 }
