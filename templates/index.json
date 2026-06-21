@@ -94,7 +94,7 @@
           "settings": {
             "kicker": "At Aurea Beauty",
             "title": "",
-            "text": "<p>At our beauty store, we believe confidence starts with feeling your best. We carefully select trending beauty products designed to enhance your natural beauty, simplify your routine, and deliver real results. Our mission is to offer high-quality products, reliable service, and a seamless shopping experience for every customer.<br/><br/>- Premium Beauty Products<br/>- Fast Delivery Across Lebanon<br/>-Customer Satisfaction First<br/>-Safe & Secure Shopping</p>",
+            "text": "<p>At our beauty store, we believe confidence starts with feeling your best. We carefully select trending beauty products designed to enhance your natural beauty, simplify your routine, and deliver real results.<br/><br/>Our mission is to offer high-quality products, reliable service, and a seamless shopping experience for every customer.<br/><br/>- Premium Beauty Products<br/>- Fast Delivery Across Lebanon<br/>- Customer Satisfaction First<br/>- Safe & Secure Shopping</p>",
             "font_size": 5,
             "text_columns": 1,
             "align_text": "text-left",
@@ -158,7 +158,7 @@
           "settings": {
             "icon_name": "icon-shipment-world",
             "icon_color": "#aaaaaa",
-            "title": "Delivery All Over Lebanon",
+            "title": "FREE Delivery All Over Lebanon",
             "text": "",
             "link_text": "",
             "link_url": ""
