@@ -301,12 +301,12 @@
       ],
       "settings": {
         "height": "use_screen_one_half",
-        "brick_gutter": 0,
+        "brick_gutter": 24,
         "borders": false,
         "bg_color": "",
         "preload_image": false,
         "width": "wrapper",
-        "padding_top": 0,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
