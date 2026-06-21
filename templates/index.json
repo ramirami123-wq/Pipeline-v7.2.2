@@ -60,7 +60,7 @@
         "text_iNqR6n": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Delivery All Over Lebanon</strong></p>"
+            "text": "<p><strong>FREE Delivery </strong>All Over Lebanon</p>"
           }
         },
         "icon_block_HWwC9e": {
@@ -147,7 +147,7 @@
       "type": "section-liquid",
       "name": "Custom Liquid",
       "settings": {
-        "custom_liquid": "<style>\n  .faq-section {\n    max-width: 760px;\n    margin: 35px auto;\n    padding: 0 16px;\n    font-family: inherit;\n  }\n\n  .faq-title {\n    text-align: center;\n    font-size: 28px;\n    font-weight: 800;\n    margin-bottom: 22px;\n  }\n\n  .faq-item {\n    border: 1px solid #eee;\n    border-radius: 14px;\n    margin-bottom: 12px;\n    padding: 16px 18px;\n    background: #fff7fa;\n  }\n\n  .faq-question {\n    font-weight: 700;\n    font-size: 16px;\n    margin-bottom: 8px;\n  }\n\n  .faq-answer {\n    font-size: 15px;\n    color: #555;\n    line-height: 1.6;\n  }\n</style>\n\n<div class=\"faq-section\">\n  <h2 class=\"faq-title\">FAQ's</h2>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">How can I contact you?</div>\n    <div class=\"faq-answer\">\n      You can contact us directly through WhatsApp for any questions or order support.\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">How long does delivery take?</div>\n    <div class=\"faq-answer\">\n      Delivery usually takes between 5 to 7 days, depending on your location.\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">Are the products safe to use?</div>\n    <div class=\"faq-answer\">\n      Yes, our products are carefully selected and safe to use when following the product instructions.\n    </div>\n  </div>\n</div>"
+        "custom_liquid": "<style>\n  .faq-section {\n    max-width: 760px;\n    margin: 35px auto;\n    padding: 0 16px;\n    font-family: inherit;\n  }\n\n  .faq-title {\n    text-align: center;\n    font-size: 28px;\n    font-weight: 800;\n    margin-bottom: 22px;\n  }\n\n  .faq-item {\n    border: 1px solid #eee;\n    border-radius: 14px;\n    margin-bottom: 12px;\n    padding: 16px 18px;\n    background: #fff7fa;\n  }\n\n  .faq-question {\n    font-weight: 700;\n    font-size: 16px;\n    margin-bottom: 8px;\n  }\n\n  .faq-answer {\n    font-size: 15px;\n    color: #555;\n    line-height: 1.6;\n  }\n</style>\n\n<div class=\"faq-section\">\n  <h2 class=\"faq-title\">FAQ's</h2>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">How can I contact you?</div>\n    <div class=\"faq-answer\">\n      You can contact us directly through WhatsApp for any questions or order support.\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">How long does delivery take?</div>\n    <div class=\"faq-answer\">\n      Delivery usually takes between 3 to 5 days, depending on your location.\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">Are the products safe to use?</div>\n    <div class=\"faq-answer\">\n      Yes, our products are carefully selected and safe to use when following the product instructions.\n    </div>\n  </div>\n</div>"
       }
     },
     "icons": {
