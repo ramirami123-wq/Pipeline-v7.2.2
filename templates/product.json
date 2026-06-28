@@ -63,6 +63,14 @@
             "padding_bottom": 20
           }
         },
+        "buttons": {
+          "type": "add-buttons",
+          "settings": {
+            "enable_payment_button": true,
+            "enable_gift_card_recipient": true,
+            "padding_bottom": 20
+          }
+        },
         "quantity": {
           "type": "quantity",
           "settings": {
@@ -79,14 +87,6 @@
             "show_remaining_style": "low",
             "countdown": 10,
             "padding_bottom": 0
-          }
-        },
-        "buttons": {
-          "type": "add-buttons",
-          "settings": {
-            "enable_payment_button": true,
-            "enable_gift_card_recipient": true,
-            "padding_bottom": 20
           }
         },
         "liquid_embJ4z": {
@@ -132,9 +132,9 @@
         "liquid_mma4w9",
         "variants",
         "subscriptions",
+        "buttons",
         "quantity",
         "sizes-remaining",
-        "buttons",
         "liquid_embJ4z",
         "upsell",
         "pickup",
@@ -256,6 +256,30 @@
         "padding_bottom": 18
       }
     },
+    "178092995631f1de96": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_prVNh7": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_prVNh7"
+      ],
+      "settings": {
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image-with-text-2": {
       "type": "section-double",
       "blocks": {
@@ -322,30 +346,6 @@
       "name": "Custom Liquid",
       "settings": {
         "custom_liquid": "<style>\n  .faq-section {\n    max-width: 760px;\n    margin: 30px auto;\n    padding: 0 16px;\n    font-family: inherit;\n  }\n\n  .faq-title {\n    text-align: center;\n    font-size: 28px;\n    font-weight: 800;\n    margin-bottom: 22px;\n  }\n\n  .faq-item {\n    background: #f9f9f9;\n    border-radius: 14px;\n    margin-bottom: 12px;\n    overflow: hidden;\n  }\n\n  .faq-item summary {\n    padding: 16px 18px;\n    font-weight: 700;\n    cursor: pointer;\n    list-style: none;\n  }\n\n  .faq-item summary::-webkit-details-marker {\n    display: none;\n  }\n\n  .faq-item summary::after {\n    content: \"+\";\n    float: right;\n    font-size: 22px;\n  }\n\n  .faq-item[open] summary::after {\n    content: \"−\";\n  }\n\n  .faq-item p {\n    padding: 0 18px 16px;\n    margin: 0;\n    font-size: 15px;\n    line-height: 1.6;\n    color: #555;\n  }\n</style>\n\n<div class=\"faq-section\">\n  <h2 class=\"faq-title\">Frequently Asked Questions</h2>\n\n  <details class=\"faq-item\">\n    <summary>Does it look natural?</summary>\n    <p>Yes! The multi-tip stamp creates soft, scattered freckles that mimic the look of natural freckles.</p>\n  </details>\n\n  <details class=\"faq-item\">\n    <summary>Can I control how bold the freckles look?</summary>\n    <p>Yes, the formula is buildable. Use a light stamp for a subtle look or layer more for a stronger sun-kissed effect.</p>\n  </details>\n\n  <details class=\"faq-item\">\n    <summary>Can I use it with makeup?</summary>\n    <p>Yes! You can apply it over makeup or on bare skin, then gently tap to blend for a seamless finish.</p>\n  </details>\n\n  <details class=\"faq-item\">\n    <summary>How long does delivery take?</summary>\n    <p>Delivery usually takes 5–7 days, depending on your location.</p>\n  </details>\n</div>"
-      }
-    },
-    "178092995631f1de96": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_prVNh7": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "review_data": "real_data",
-            "max_width": 1200,
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_prVNh7"
-      ],
-      "settings": {
-        "text_color": "text--neutral",
-        "bg": "palette--light bg--neutral",
-        "width": "wrapper",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "related": {
@@ -418,10 +418,10 @@
     "section_announcement_eaVXD4",
     "image-with-text",
     "section_announcement_LJFTnD",
+    "178092995631f1de96",
     "image-with-text-2",
     "section_liquid_3G7F6M",
     "section_liquid_xrndyG",
-    "178092995631f1de96",
     "related",
     "section_icons_pqMPNP"
   ]

@@ -48,6 +48,7 @@
     "cycle_images_hover_delay": 1.5,
     "product_grid_image": "crop",
     "cart_style": "drawer",
+    "currency_code_enable": false,
     "content_for_index": [],
     "blocks": {
       "5091004626459974968": {
